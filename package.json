@@ -1,0 +1,32 @@
+{
+  "name": "templated-object-generator",
+  "version": "1.0.0",
+  "description": "Generate 'n' number of objects that comform to a template.",
+  "main": "generate-objects.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^4.5.1"
+  },
+  "scripts": {
+    "test": "tape ./test/*.js"
+  },
+  "engines" : { "node" : ">=5.9.0" },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mattfurness/templated-object-generator.git"
+  },
+  "keywords": [
+    "generate",
+    "test",
+    "data"
+  ],
+  "author": "Matt Furness",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattfurness/templated-object-generator/issues"
+  },
+  "homepage": "https://github.com/mattfurness/templated-object-generator#readme"
+}
