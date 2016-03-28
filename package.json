@@ -1,8 +1,8 @@
 {
   "name": "templated-object-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate 'n' number of objects that comform to a template.",
-  "main": "generate-objects.js",
+  "main": "./lib/generate-objects.js",
   "directories": {
     "test": "test"
   },
